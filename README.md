@@ -3,4 +3,8 @@
  
 Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
-![RT-RS-0506](https://github.com/PedroHenrique1303/Calculo_Numerico/assets/172942382/87a076df-a555-40a2-9c46-ee6a82adb246) 
+---
+
+<img align="center" src="https://github.com/user-attachments/assets/1f4573c4-ccd4-4079-8ecf-bd9b07ecdcc5" alt="Imagem" width="1000" height="200">
+
+---
