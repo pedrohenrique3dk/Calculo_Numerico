@@ -8,7 +8,10 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 <img align="center" src="https://github.com/user-attachments/assets/1f4573c4-ccd4-4079-8ecf-bd9b07ecdcc5" alt="Imagem" width="1000" height="200">
 
 ---
-## 1° TRABALHO: Método de Newton / Método de diferenças centradas para aproximação de derivadas / Método da Bisecção. Implementação de códigos em Octave.
+## 1° TRABALHO: 
+
+|Método de Newton |Método de diferenças centradas para aproximação de derivadas | Método da Bisecção | Implementação de códigos em Octave|
+|-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
