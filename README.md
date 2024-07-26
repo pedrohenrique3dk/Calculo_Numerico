@@ -8,15 +8,51 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 <img align="center" src="https://github.com/user-attachments/assets/1f4573c4-ccd4-4079-8ecf-bd9b07ecdcc5" alt="Imagem" width="1000" height="200">
 
 ---
-## 1° TRABALHO: 
+
+ ⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém a proposta de trabalho feita pelo professor, clique no GIF na caixa PROBLEMAS PROPOSTOS e você será redirecionado ao arquivo para download.&nbsp;
+  
+ ⚠️ AVISO 2: Se quiser ver o arquivo com o trabalho desenvolvido clique no GIF na caixa TRABALHO DESENVOLVIDO e você será redirecionado ao arquivo para download.
+
+---
+
+<div align="center">
+ 
+ <i>1° TRABALHO</i> 
 
 |Método de Newton |Método de diferenças centradas para aproximação de derivadas | Método da Bisecção | Implementação de códigos em Octave|
 |-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
-|<video src="https://github.com/user-attachments/assets/f31e5501-57ef-4924-98c8-2efbd526b717">|<video src="https://github.com/user-attachments/assets/5d429709-80db-46b5-97a4-8693ae5f68bf">|
+|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%201.pdf"><img src="https://github.com/user-attachments/assets/a461f73a-f96c-4ac7-aa6e-f4ad5f177477" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%201.pdf"><img src="https://github.com/user-attachments/assets/7e24fe21-d65f-4fa2-9b01-f72f535e9731" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
+---
+
+ <i>2° TRABALHO</i> 
+
+| PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
+|---------------------------------------------|--------------------------------------------------|
+|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
+
+---
+
+ <i>3° TRABALHO</i> 
+
+| PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
+|---------------------------------------------|--------------------------------------------------|
+|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
+
+---
+
+ <i>4° TRABALHO</i> 
+
+| PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
+|---------------------------------------------|--------------------------------------------------|
+|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
+
+
+
+</div>
 
 
 
