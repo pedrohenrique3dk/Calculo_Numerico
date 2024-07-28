@@ -32,7 +32,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%20%202.pdf"><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%202.pdf" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
 ---
 
@@ -40,7 +40,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%203.pdf"><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%203.pdf" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
 ---
 
@@ -48,7 +48,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%204.pdf"><img src="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%204.pdf" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
 
 
