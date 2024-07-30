@@ -24,7 +24,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
-|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%201.pdf"><img src="https://github.com/user-attachments/assets/a461f73a-f96c-4ac7-aa6e-f4ad5f177477" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%201.pdf"><img src="https://github.com/user-attachments/assets/7e24fe21-d65f-4fa2-9b01-f72f535e9731" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href=""><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%201.pdf"><img src="https://github.com/user-attachments/assets/7e24fe21-d65f-4fa2-9b01-f72f535e9731" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
 ---
 
