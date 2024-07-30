@@ -43,6 +43,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
  <i>3° TRABALHO</i> 
 
 |Modelagem Matemática |Sistema de equações EDO's | Método de Runge-Kutta | Analise de Dados |
+|-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
@@ -53,6 +54,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
  <i>4° TRABALHO</i> 
 
 |Interpolação Numérica |Interpolação por Partes | Implementação no Octave | ALgebra Linear |
+|-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
