@@ -58,10 +58,11 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
-|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%204.pdf"><img src="https://github.com/user-attachments/assets/07b6008f-d20e-419f-b98d-29e138a65057" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%204.pdf"><img src="https://github.com/user-attachments/assets/5a283381-b061-41bd-a6ea-99a5572390e4" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%204.pdf"><img src="https://github.com/user-attachments/assets/07b6008f-d20e-419f-b98d-29e138a65057" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%204.pdf"><img src="https://github.com/user-attachments/assets/62184b0e-18cf-4164-9e8f-ad3ebb9e148d" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
 
 </div>
+
 
 
 
