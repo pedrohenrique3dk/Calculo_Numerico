@@ -31,6 +31,9 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
  <i>2° TRABALHO</i> 
 
+|Fatoração LU  |Fatorção LU com Pivoteamento | Matriz de Banda | Curto Computacional |
+|-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
+
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
 |<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Problemas%20Propostos%20-%20Atividade%20%202.pdf"><img src="https://github.com/user-attachments/assets/d8d5575f-51ce-42c5-a6f3-934138354989" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://github.com/pedrohenrique3dk/Calculo_Numerico/blob/main/Trabalho%202.pdf"><img src="https://github.com/user-attachments/assets/57fa30ff-e27c-48fa-8472-e4be9dcb8173" alt = "codigo" width="400" height="250" max-width=100%></a>|
@@ -39,6 +42,7 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 
  <i>3° TRABALHO</i> 
 
+|Modelagem Matemática |Sistema de equações EDO's | Método de Runge-Kutta | Analise de Dados |
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
@@ -47,6 +51,8 @@ Aviso: Ao clicar no trabalho, se demorar a carregar, atualize a página!
 ---
 
  <i>4° TRABALHO</i> 
+
+|Interpolação Numérica |Interpolação por Partes | Implementação no Octave | ALgebra Linear |
 
 | PROBLEMAS PROPOSTOS|TRABALHO DESENVOLVIDO|
 |---------------------------------------------|--------------------------------------------------|
