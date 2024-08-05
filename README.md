@@ -146,7 +146,7 @@ https://github.com/pedrohenrique3dk/Calculo_Numerico
 ## Trabalho 3 📄
 
 
-O segundo trabalho desta disciplina consistiu em testar os conhecimentos acerca dos conteúdos abaixo.
+O terceiro trabalho desta disciplina consistiu em testar os conhecimentos acerca dos conteúdos abaixo.
 
 |Modelagem Matemática |Sistema de equações EDO's | Método de Runge-Kutta | Analise de Dados |
 |-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
@@ -203,7 +203,7 @@ https://github.com/pedrohenrique3dk/Calculo_Numerico
 ## Trabalho 4 📄
 
 
-O segundo trabalho desta disciplina consistiu em testar os conhecimentos acerca dos conteúdos abaixo.
+O quarto trabalho desta disciplina consistiu em testar os conhecimentos acerca dos conteúdos abaixo.
 
 |Interpolação Numérica |Interpolação por Partes | Implementação no Octave | ALgebra Linear |
 |-------------------|------------------------------------------------------------|--------------------|-----------------------------------|
