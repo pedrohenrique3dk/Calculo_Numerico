@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/16a79a0e-238e-403f-b7e0-84c770e0d202" alt = "codigo" width="1200" height="200">
 
 
-## Calculo Numerico em Octave 📊<img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## Calculo Numerico em Octave 📊
 
 <div align='center'>
 
