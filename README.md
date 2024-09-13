@@ -254,3 +254,9 @@ https://github.com/pedrohenrique3dk/Calculo_Numerico
 
 
 </div>
+
+## Contatos 📞
+
+ 
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
+  
